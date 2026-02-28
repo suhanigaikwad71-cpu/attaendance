@@ -1,7 +1,3 @@
-git clone https://github.com/<suhanigaikwad71-cpu>/attendance.git
-cd attendance
-git checkout <ENTC-A>
-git pull origin <ENTC-A>
 git add attendance.md
 git commit -m "Add attendance: <NAME:SUHANI GAIKWAD
 CLASS:ENTC A
